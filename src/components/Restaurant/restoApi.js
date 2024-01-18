@@ -7,13 +7,13 @@ price: "10₹",
 description:"Toast is sliced bread that has been browned by radiant heat. The browning is the result of a Maillard reaction altering the flavor of the bread and making it firmer. The firm surface is easier to spread toppings on and the warmth can help butter reach its melting point.",
 }, 
 {
-    id: 2,
-    image: "https://cookingwithparita.com/wp-content/uploads/2022/04/F4A6412.jpg",
-    name: "samosa",
-    category: "evening",
-    price: "20₹",
+  id: 2,
+    image: "https://img.onmanorama.com/content/dam/mm/en/food/recipe/images/2023/5/3/paneer-butter-masala.jpg",
+    name: "butter paneer",
+    category: "lunch",
+    price: "50₹",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",  
   },
   {
     id: 3,
@@ -25,13 +25,13 @@ description:"Toast is sliced bread that has been browned by radiant heat. The br
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
-    id: 4,
-    image: "https://img.onmanorama.com/content/dam/mm/en/food/recipe/images/2023/5/3/paneer-butter-masala.jpg",
-    name: "butter paneer",
-    category: "lunch",
-    price: "50₹",
-    description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
+     id: 4,
+      image: "https://cookingwithparita.com/wp-content/uploads/2022/04/F4A6412.jpg",
+      name: "samosa",
+      category: "evening",
+      price: "20₹",
+      description:
+        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis, at consectetur totam voluptatibus quibusdam iusto. Accusamus quas, soluta ipsam autem eius necessitatibus fugiat in . ",
   },
   {
     id: 5,
