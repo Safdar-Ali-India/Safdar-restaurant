@@ -20,7 +20,7 @@ const [menuData, setMenuData] = useState(Menu);
 const [menuList, setMenuList] = useState(uniqueList);
 const filterData = (category) =>{
 if (category === "All"){
-  setMenuList([...menuList]);
+  setMenuData(Menu);
   return
 }
 
